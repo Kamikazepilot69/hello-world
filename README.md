@@ -1,2 +1,3 @@
 # hello-world
-Repository
+Hey Everybody!
+First time coding here, cant wait to explore it even deeper.
